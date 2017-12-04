@@ -1,0 +1,16 @@
+{
+  "name": "x-compress-images",
+  "version": "1.0.0",
+  "description": "Minify size your images by compress-images",
+  "main": "",
+  "scripts": {
+    "dev": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OXOYO",
+  "license": "MIT",
+  "dependencies": {
+    "compress-images": "^1.1.4",
+    "gulp": "^3.9.1"
+  }
+}
